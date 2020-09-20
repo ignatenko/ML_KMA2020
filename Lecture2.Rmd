@@ -348,7 +348,6 @@ length()
 Посилання https://data.rada.gov.ua/open/data/mps-skl9
 
 ```{r}
-setwd("/Users/anymac/Downloads")
 df <- read.csv("mps09-data.csv")
 str(df)
 ```
