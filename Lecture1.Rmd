@@ -331,7 +331,7 @@ knitr::include_graphics("./Lecture1_files/7w1.jpg")
 ## XKCD Машинне навчання 
 
 ```{r,out.width = "500px"}
-knitr::include_graphics("./Lecture1_files/joke3.png")
+knitr::include_graphics("./Lecture1_files/machine_learning.png")
 ```
 
 ## Навчання з вчителем. Класифікація
@@ -344,7 +344,9 @@ knitr::include_graphics("./Lecture1_files/joke3.png")
   - Аналізу коментарів
   - Розпізнаванню рукописних знаків
   - Виявленню шахрайства
-  
+
+## Навчання з вчителем
+
 Популярні алгоритми: 
 
   * Naive Bayes
@@ -370,13 +372,13 @@ knitr::include_graphics("./Lecture1_files/joke3.png")
 ## Регресія
 
 ```{r,out.width = "800px"}
-knitr::include_graphics("./Lecture1_files/joke1.png")
+knitr::include_graphics("./Lecture1_files/curve_fitting.png")
 ```
 
 ## Регресія
 
 ```{r,out.width = "400px"}
-knitr::include_graphics("./Lecture1_files/joke5.png")
+knitr::include_graphics("./Lecture1_files/extrapolating.png")
 ```
 
 
@@ -408,11 +410,6 @@ ggplot(data = iris, aes(x = Petal.Length, y = Petal.Width))+
   ggtitle("Petal Length vs Width")
 ```
 
-## Приклад. Кластерізація методом к-середніх
-
-```{r,out.width = "800px"}
-knitr::include_graphics("./Lecture1_files/K-means_convergence.gif")
-```
 
 ## Зменшення розмірності
 
