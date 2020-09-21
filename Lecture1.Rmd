@@ -1,7 +1,7 @@
 ---
 title: "Lecture1"
 author: "Олексій Ігнатенко"
-date: "September 6, 2019"
+date: "September 21, 2020"
 output:
   ioslides_presentation:
     widescreen: true
